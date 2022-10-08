@@ -1,3 +1,0 @@
-Archivo nuevo en git 
-Estoy haciendo cambios en este fichero
-Otro Cambio despues del primer commit
